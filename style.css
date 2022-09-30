@@ -11,18 +11,27 @@ img {
 h1  {
     display: inline;
     font-size: 150px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
 
 }
 
 .banner{
-    text-align: center;    
+    padding-top:60px;
+    text-align: center;
 }
 
 ul {
   /*  border-style: solid;
     border-width: 1px; */
-    margin-top: 200px;
-    margin-right: 50px;
+    border: 5px solid black;
+    border-radius: 20px 80px 20px 80px;
+    padding-right: 50px;
+    margin-top: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-right: 600px;
+    margin-left: 600px;
     list-style-type:none;
     list-style-position: inside;
     text-align: center;
